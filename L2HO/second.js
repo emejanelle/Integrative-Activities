@@ -21,7 +21,8 @@ if (confirm("Do you want to continue getting the sum of the digits? ") == true) 
     alert("The sum of " + a + " and " + b + " is " + z + ".");
 } 
 else {
-    console.log("You cancelled adding the digits.")
+    console.log("You cancelled adding the digits.");
+    alert("You cancelled adding the digits.");
 }
 
 
