@@ -12,3 +12,17 @@ h3{
 p{
     margin-top: 5px;
 }
+
+.answer {
+    text-align: justify;
+    margin-inline-start: 20px;
+    margin-top: 30px;
+}
+
+.answer h3 {
+    color: #000000;
+}
+
+.answer p{
+    margin-inline-start: 25px;
+}
